@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.21)  5 JUL 2023 01:55
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.21)  5 JUL 2023 01:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -578,23 +578,17 @@ File: img/17.png Graphic file (type bmp)
  [40]
 File: img/18.png Graphic file (type bmp)
 <img/18.png>
- [41]
-File: img/16.png Graphic file (type bmp)
-<img/16.png>
- [42] [43] [44] [45] [46]
-File: img/20.png Graphic file (type bmp)
-<img/20.png>
- [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] (./report.aux)
+ [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: DA69236452C5FA94B707E1D8930AFB8D;5525.
  ) 
 Here is how much of TeX's memory you used:
- 17053 strings out of 476179
- 358076 string characters out of 5813071
+ 17037 strings out of 476179
+ 357854 string characters out of 5813071
  1104766 words of memory out of 5000000
- 37551 multiletter control sequences out of 15000+600000
+ 37537 multiletter control sequences out of 15000+600000
  474181 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,8n,97p,393b,1763s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report.pdf (74 pages).
+Output written on report.pdf (73 pages).
